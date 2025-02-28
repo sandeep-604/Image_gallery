@@ -1,4 +1,5 @@
 *Image Gallery Project*
+
 A simple and responsive image gallery built using HTML, CSS, and JavaScript. This project showcases a horizontal scrolling gallery with navigation buttons and a smooth scrolling effect.
 
 *Features:*
